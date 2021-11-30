@@ -1,0 +1,223 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 570px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 570px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 532px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 570px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-left: 0;
+  margin-right: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: titillium-Web;
+  margin: 20px 90px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  margin: 20px 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  margin-left: 0;
+  margin-right: 20px;
+  background-image: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-top: 20px;
+  font-weight: 700;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 470px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 470px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 438px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 16px;
+    position: relative;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 74px;
+  }
+
+  .u-section-1 .u-text-3 {
+    position: relative;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 16px;
+    position: relative;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 335px;
+    margin-top: 383px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-size: 1.875rem;
+    margin-right: 57px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 13px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 503px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 43px;
+    width: NaNpx;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 317px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 6px;
+  }
+
+  footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+  }
+}
+
+.back1 {
+  background-image: url('./../img/solar1.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  border: 3px solid black;
+  box-sizing: border-box;
+
+}
